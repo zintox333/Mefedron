@@ -2,9 +2,9 @@
 
 Tool for Playing around Internet Protocols.
 
-you need to insert a "https" link or an IP as example " 35.196.132.85 " for ddos attack 
+you need to insert a "https" link or an IP for example "35.196.132.85"
 
-once you enterd them you have to select how many threads it sends to the IP or Website
+once you have enterd one of them you have to select how many threads it sends to the IP or Website
 
 when you run it, it should look like this (i used an school website as example)
 
