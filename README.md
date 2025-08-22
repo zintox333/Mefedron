@@ -8,7 +8,8 @@ once you enterd them you have to select how many threads it sends to the IP or W
 
 when you run it, it should look like this (i used an school website as example)
 
-<img width="1111" height="452" alt="image" src="https://github.com/user-attachments/assets/6560fa42-d903-4a38-8c57-4de5321af37a" />
+<img width="1107" height="579" alt="image" src="https://github.com/user-attachments/assets/e6b01a00-c481-4b1b-a893-5f8ed2322a10" />
+
 
 After that the website should have gotten attacked and will crash
 
