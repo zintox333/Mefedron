@@ -1,2 +1,23 @@
-# Mefedron
-DDoS tool by zintox
+# Mefedron 
+
+Tool for Playing around Internet Protocols.
+
+you need to insert a "https" link or an IP as example " 35.196.132.85 " for ddos attack 
+
+once you enterd them you have to select how many threads it sends to the IP or Website
+
+when you run it, it should look like this (i used an school website as example)
+
+<img width="1111" height="452" alt="image" src="https://github.com/user-attachments/assets/6560fa42-d903-4a38-8c57-4de5321af37a" />
+
+After that the website should have gotten attacked and will crash
+
+if you want the ddos attack to last longer u can make it do so by selecting more threads like 10000
+
+if you did it with an IP the wifi router shouldnt be working or be very laggy for some time eventually it might crash cuz of too many threads
+
+Friendly reminder to NOT forget VPN as its important so nothing happens to you                     
+
+If you need help to run it dm me on discord 
+
+Educational purposes only :)
